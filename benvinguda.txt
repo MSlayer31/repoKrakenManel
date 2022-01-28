@@ -1,1 +1,4 @@
 Manel
+(A) Benvinguda a la branca 01 Manel
+(B) Modificació 01 Main Manel
+(E) Afegim imatge a branca01
